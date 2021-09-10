@@ -122,6 +122,10 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/sdm660-common/proprietary/system/lib64/libfm-hci.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libfm-hci.so \
     vendor/motorola/sdm660-common/proprietary/system/lib64/libmmosal.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmmosal.so \
     vendor/motorola/sdm660-common/proprietary/system/lib64/libmmparser_lite.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmmparser_lite.so \
+    vendor/motorola/sdm660-common/proprietary/system/lib64/libadaptlaunch.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libadaptlaunch.so \
+    vendor/motorola/sdm660-common/proprietary/system/lib64/libappclassifier.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libappclassifier.so \
+    vendor/motorola/sdm660-common/proprietary/system/lib64/liblearningmodule.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/liblearningmodule.so \
+    vendor/motorola/sdm660-common/proprietary/system/lib64/libgameoptfeature.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libgameoptfeature.so \
     vendor/motorola/sdm660-common/proprietary/system/lib64/libqti-iopd-client_system.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libqti-iopd-client_system.so \
     vendor/motorola/sdm660-common/proprietary/system/lib64/libqti-perfd-client_system.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libqti-perfd-client_system.so \
     vendor/motorola/sdm660-common/proprietary/system/lib64/libqti-util_system.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libqti-util_system.so \
